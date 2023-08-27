@@ -1,0 +1,9 @@
+1. Project requirements:
+	Latest version python installed in system.
+	https://www.python.org/downloads/
+	While making this project using Python 3.9.5
+
+2. After Installing Python open command promot and add libraries.
+	Commands listed below:
+		pip install playsound
+		pip install opencv-python
